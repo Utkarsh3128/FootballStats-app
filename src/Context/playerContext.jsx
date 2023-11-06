@@ -13,6 +13,7 @@ const PlayerProvider = ({ children }) => {
   );
 };
 
+// custom hook
 const useMyContext = () => {
   return useContext(PlayerContext);
 };
