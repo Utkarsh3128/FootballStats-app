@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Sofascore Sans", sans-serif;
+}
+
+body {
+  background: linear-gradient(to bottom right, #6366f1, #8b5cf6);
+}
+
+.card{
+  box-shadow:  5px 5px 15px #5174de,
+  -0px -0px 0px #ffffff;
+}
