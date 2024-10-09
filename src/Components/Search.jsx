@@ -36,6 +36,7 @@ const Search = () => {
             onChange={(e) => setSeason(e.target.value)}
             className="py-0 pr-[30px] pl-[15px] h-[30px] text-[15px] rounded-md border-black border-[1.2px]"
           >
+            <option value="2023">2024-25</option>
             <option value="2023">2023-24</option>
             <option value="2022">2022-23</option>
             <option value="2021">2021-22</option>

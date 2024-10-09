@@ -12,7 +12,7 @@ const options = {
 };
 
 const initialState = {
-  year: "2023",
+  year: "2024",
   league: "307",
   response: [],
 };
